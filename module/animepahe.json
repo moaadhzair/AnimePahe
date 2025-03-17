@@ -1,0 +1,16 @@
+{
+    "sourceName": "AnimePahe",
+    "iconUrl": "https://assets.apk.live/com.animepahe.show_animes--128-icon.png",
+    "author": {
+        "name": "MoaadXD",
+        "icon": "https://avatars.fastly.steamstatic.com/7032efef0ab61b245a3dd7770cbf5466e1272ee4_full.jpg"
+    },
+    "version": "1.0.0",
+    "language": "English (SUB)",
+    "streamType": "HLS",
+    "quality": "1080p",
+    "baseUrl": "https://google.com/",
+    "searchBaseUrl": "https://animepahe.ru/api?m=search&q=%s",
+    "scriptUrl": "notnow",
+    "asyncJS": true
+}
