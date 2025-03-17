@@ -11,6 +11,6 @@
     "quality": "1080p",
     "baseUrl": "https://google.com/",
     "searchBaseUrl": "https://animepahe.ru/api?m=search&q=%s",
-    "scriptUrl": "notnow",
+    "scriptUrl": "https://raw.githubusercontent.com/moaadhzair/AnimePahe/refs/heads/master/module/animepahe.js",
     "asyncJS": true
 }
