@@ -1,0 +1,14 @@
+{
+  "name": "animepahe",
+  "version": "1.0.0",
+  "description": "a back-end program that configures the api necessary to retrive data from animepahe to server as a moudles in sora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MoaadXD",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
