@@ -1,7 +1,7 @@
 async function searchResults(keyword) {
     const encodedKeyword = encodeURIComponent(keyword);
     const json = await fetch(`https://anime-pahe.vercel.app/api/searchResults/${encodedKeyword}`);
-    return JSON.parse(json);
+    return json.json();
 }
 
 async function extractDetails(url) {
